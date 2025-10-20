@@ -11,4 +11,7 @@ Can't find older versions of bedrock minecraft servers both Windows &Linux? this
 <a name="Windows-Servers"></a> 
 ### Windows Servers:
 * [1.6.1.0](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.6.1.0.zip)
+*[1.6]()
 
+<a name="Linux-Servers"></a> 
+### Linux Servers:
