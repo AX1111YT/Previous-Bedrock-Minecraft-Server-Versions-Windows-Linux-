@@ -1,4 +1,4 @@
-# Previous server versions of Bedrock Minecraft (Windows & Linux)
+# Previous/older server versions of Bedrock Minecraft (Windows & Linux)
 **Struggling to find an older version of the Minecraft Bedrock server for your Windows or Linux machine? You're not alone. The official website only keeps the latest update, but thankfully, the I have a solution. This repository is an invaluable resource, meticulously archiving an extensive library of past server releases for you to download.**
 
 ***A Quick Note from the Owner @AX1111YT!! Welcome! Before you dive in, I wanted to share that this entire repository is a personal project, built and managed from the ground up. It has taken a significant amount of time and dedication to collect, organize, and filter all these versions for the community.***
