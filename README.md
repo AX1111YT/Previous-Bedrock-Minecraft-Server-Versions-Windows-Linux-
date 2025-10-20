@@ -1,10 +1,9 @@
 # Previous-Bedrock-Minecraft-Server-Versions-Windows-Linux- (under devolopment)
-Cant find older versions of bedrock minecraft servers both Windows &amp; Linux? this repository contains ton of previous versions.
+Can't find older versions of bedrock minecraft servers both Windows &Linux? this repository contains ton of previous versions.
 
+## Navigation Section:
+[<sub>Windows</sub>](#Windows-Servers) 
 
-
-<a name="Windows Servers"></a> 
-## Windows servers
-
-
+<a name="Windows-Servers"></a> 
+## Windows Servers
 
