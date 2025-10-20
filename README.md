@@ -319,8 +319,6 @@ Can't find older versions of bedrock minecraft servers both Windows & Linux? thi
 
 * [1.21.100.6](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.100.6.zip)
 
-* [1.21.100.25](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.100.25.zip)
-
 * [1.21.100.7](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.100.7.zip)
 
 * [1.21.101.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.101.1.zip)
@@ -343,6 +341,371 @@ Can't find older versions of bedrock minecraft servers both Windows & Linux? thi
   
 
 **Windows Previews:** <a name="Windows-Previews"></a> 
+* [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.20.24.zip)
+
+* [1.18.20.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.20.26.zip)
+
+* [1.18.20.28](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.20.28.zip)
+
+* [1.18.30.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.30.21.zip)
+
+* [1.18.30.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.30.23.zip)
+
+* [1.18.30.27](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.30.27.zip)
+
+* [1.18.30.29](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.30.29.zip)
+
+* [1.18.30.31](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.30.31.zip)
+
+* [1.18.30.33](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.30.33.zip)
+
+* [1.19.0.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.0.21.zip)
+
+* [1.19.0.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.0.25.zip)
+
+* [1.19.0.27](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.0.27.zip)
+
+* [1.19.0.29](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.0.29.zip)
+
+* [1.19.0.31](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.0.31.zip)
+
+* [1.19.0.33](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.0.33.zip)
+
+* [1.19.0.35](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.0.35.zip)
+
+* [1.19.0.68](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.0.68.zip)
+
+* [1.19.10.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.10.20.zip)
+
+* [1.19.10.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.10.21.zip)
+
+* [1.19.10.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.10.22.zip)
+
+* [1.19.10.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.10.23.zip)
+
+* [1.19.10.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.10.24.zip)
+
+* [1.19.20.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.20.20.zip)
+
+* [1.19.20.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.20.22.zip)
+
+* [1.19.20.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.20.23.zip)
+
+* [1.19.20.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.20.24.zip)
+
+* [1.19.30.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.30.20.zip)
+
+* [1.19.30.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.30.21.zip)
+
+* [1.19.30.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.30.22.zip)
+
+* [1.19.30.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.30.23.zip)
+
+* [1.19.30.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.30.24.zip)
+
+* [1.19.30.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.30.25.zip)
+
+* [1.19.40.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.40.20.zip)
+
+* [1.19.40.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.40.21.zip)
+
+* [1.19.40.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.40.22.zip)
+
+* [1.19.40.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.40.23.zip)
+
+* [1.19.40.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.40.24.zip)
+
+* [1.19.50.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.50.20.zip)
+
+* [1.19.50.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.50.21.zip)
+
+* [1.19.50.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.50.22.zip)
+
+* [1.19.50.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.50.23.zip)
+
+* [1.19.50.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.50.24.zip)
+
+* [1.19.50.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.50.25.zip)
+
+* [1.19.60.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.60.20.zip)
+
+* [1.19.60.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.60.22.zip)
+
+* [1.19.60.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.60.23.zip)
+
+* [1.19.60.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.60.24.zip)
+
+* [1.19.60.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.60.25.zip)
+
+* [1.19.60.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.60.26.zip)
+
+* [1.19.60.27](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.60.27.zip)
+
+* [1.19.70.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.70.20.zip)
+
+* [1.19.70.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.70.21.zip)
+
+* [1.19.70.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.70.22.zip)
+
+* [1.19.70.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.70.23.zip)
+
+* [1.19.70.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.70.24.zip)
+
+* [1.19.70.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.70.26.zip)
+
+* [1.19.80.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.80.20.zip)
+
+* [1.19.80.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.80.21.zip)
+
+* [1.19.80.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.80.22.zip)
+
+* [1.19.80.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.80.23.zip)
+
+* [1.19.80.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.19.80.24.zip)
+
+* [1.20.0.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.0.20.zip)
+
+* [1.20.0.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.0.21.zip)
+
+* [1.20.0.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.0.22.zip)
+
+* [1.20.0.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.0.23.zip)
+
+* [1.20.0.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.0.24.zip)
+
+* [1.20.0.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.0.25.zip)
+
+* [1.20.10.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.10.20.zip)
+
+* [1.20.10.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.10.21.zip)
+
+* [1.20.10.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.10.23.zip)
+
+* [1.20.10.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.10.24.zip)
+
+* [1.20.20.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.20.20.zip)
+
+* [1.20.20.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.20.21.zip)
+
+* [1.20.20.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.20.22.zip)
+
+* [1.20.20.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.20.23.zip)
+
+* [1.20.30.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.30.20.zip)
+
+* [1.20.30.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.30.21.zip)
+
+* [1.20.30.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.30.22.zip)
+
+* [1.20.30.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.30.24.zip)
+
+* [1.20.30.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.30.25.zip)
+
+* [1.20.40.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.40.20.zip)
+
+* [1.20.40.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.40.21.zip)
+
+* [1.20.40.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.40.22.zip)
+
+* [1.20.40.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.40.23.zip)
+
+* [1.20.40.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.40.24.zip)
+
+* [1.20.50.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.50.20.zip)
+
+* [1.20.50.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.50.21.zip)
+
+* [1.20.50.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.50.22.zip)
+
+* [1.20.50.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.50.23.zip)
+
+* [1.20.50.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.50.24.zip)
+
+* [1.20.60.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.60.20.zip)
+
+* [1.20.60.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.60.21.zip)
+
+* [1.20.60.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.60.22.zip)
+
+* [1.20.60.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.60.23.zip)
+
+* [1.20.60.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.60.24.zip)
+
+* [1.20.60.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.60.25.zip)
+
+* [1.20.60.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.60.26.zip)
+
+* [1.20.70.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.70.20.zip)
+
+* [1.20.70.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.70.21.zip)
+
+* [1.20.70.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.70.22.zip)
+
+* [1.20.70.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.70.24.zip)
+
+* [1.20.70.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.70.25.zip)
+
+* [1.20.80.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.80.20.zip)
+
+* [1.20.80.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.80.21.zip)
+
+* [1.20.80.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.80.22.zip)
+
+* [1.20.80.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.80.23.zip)
+
+* [1.20.80.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.20.80.24.zip)
+
+* [1.21.0.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.0.20.zip)
+
+* [1.21.0.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.0.21.zip)
+
+* [1.21.0.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.0.22.zip)
+
+* [1.21.0.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.0.23.zip)
+
+* [1.21.0.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.0.24.zip)
+
+* [1.21.0.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.0.25.zip)
+
+* [1.21.0.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.0.26.zip)
+
+* [1.21.10.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.10.20.zip)
+
+* [1.21.10.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.10.21.zip)
+
+* [1.21.10.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.10.22.zip)
+
+* [1.21.10.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.10.23.zip)
+
+* [1.21.10.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.10.24.zip)
+
+* [1.21.100.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.100.20.zip)
+
+* [1.21.100.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.100.21.zip)
+
+* [1.21.100.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.100.22.zip)
+
+* [1.21.100.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.100.23.zip)
+
+* [1.21.100.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.100.24.zip)
+
+* [1.21.110.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.110.20.zip)
+
+* [1.21.110.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.110.22.zip)
+
+* [1.21.110.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.110.23.zip)
+
+* [1.21.110.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.110.24.zip)
+
+* [1.21.110.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.110.25.zip)
+
+* [1.21.110.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.110.26.zip)
+
+* [1.21.120.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.120.20.zip)
+
+* [1.21.120.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.120.21.zip)
+
+* [1.21.120.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.120.22.zip)
+
+* [1.21.120.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.120.23.zip)
+
+* [1.21.120.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.120.24.zip)
+
+* [1.21.120.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.120.25.zip)
+
+* [1.21.130.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.130.20.zip)
+
+* [1.21.20.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.20.21.zip)
+
+* [1.21.20.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.20.22.zip)
+
+* [1.21.20.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.20.23.zip)
+
+* [1.21.20.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.20.24.zip)
+
+* [1.21.30.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.30.21.zip)
+
+* [1.21.30.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.30.22.zip)
+
+* [1.21.30.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.30.23.zip)
+
+* [1.21.30.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.30.24.zip)
+
+* [1.21.30.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.30.25.zip)
+
+* [1.21.40.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.40.20.zip)
+
+* [1.21.40.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.40.21.zip)
+
+* [1.21.40.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.40.22.zip)
+
+* [1.21.40.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.40.23.zip)
+
+* [1.21.40.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.40.25.zip)
+
+* [1.21.50.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.50.20.zip)
+
+* [1.21.50.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.50.24.zip)
+
+* [1.21.50.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.50.25.zip)
+
+* [1.21.50.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.50.26.zip)
+
+* [1.21.50.28](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.50.28.zip)
+
+* [1.21.50.29](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.50.29.zip)
+
+* [1.21.50.30](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.50.30.zip)
+
+* [1.21.60.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.60.21.zip)
+
+* [1.21.60.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.60.23.zip)
+
+* [1.21.60.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.60.24.zip)
+
+* [1.21.60.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.60.25.zip)
+
+* [1.21.60.27](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.60.27.zip)
+
+* [1.21.60.28](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.60.28.zip)
+
+* [1.21.70.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.70.20.zip)
+
+* [1.21.70.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.70.22.zip)
+
+* [1.21.70.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.70.23.zip)
+
+* [1.21.70.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.70.24.zip)
+
+* [1.21.70.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.70.25.zip)
+
+* [1.21.70.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.70.26.zip)
+
+* [1.21.80.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.20.zip)
+
+* [1.21.80.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.21.zip)
+
+* [1.21.80.22](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.22.zip)
+
+* [1.21.80.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.25.zip)
+
+* [1.21.80.27](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.27.zip)
+
+* [1.21.80.28](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.80.28.zip)
+
+* [1.21.90.20](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.20.zip)
+
+* [1.21.90.21](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.21.zip)
+
+* [1.21.90.23](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.23.zip)
+
+* [1.21.90.25](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.25.zip)
+
+* [1.21.90.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.26.zip)
+
+* [1.21.90.27](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.27.zip)
+
+* [1.21.90.28](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.21.90.28.zip)
 
 
 <a name="Linux-Servers"></a> 
@@ -675,3 +1038,368 @@ Can't find older versions of bedrock minecraft servers both Windows & Linux? thi
 * [1.21.130](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.zip)
 
 **Linux Previews:** <a name="Linux-Previews"></a> 
+* [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.24.zip)
+
+* [1.18.20.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.26.zip)
+
+* [1.18.20.28](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.28.zip)
+
+* [1.18.30.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.30.21.zip)
+
+* [1.18.30.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.30.23.zip)
+
+* [1.18.30.27](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.30.27.zip)
+
+* [1.18.30.29](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.30.29.zip)
+
+* [1.18.30.31](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.30.31.zip)
+
+* [1.18.30.33](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.30.33.zip)
+
+* [1.19.0.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.0.21.zip)
+
+* [1.19.0.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.0.25.zip)
+
+* [1.19.0.27](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.0.27.zip)
+
+* [1.19.0.29](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.0.29.zip)
+
+* [1.19.0.31](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.0.31.zip)
+
+* [1.19.0.33](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.0.33.zip)
+
+* [1.19.0.35](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.0.35.zip)
+
+* [1.19.0.68](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.0.68.zip)
+
+* [1.19.10.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.10.20.zip)
+
+* [1.19.10.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.10.21.zip)
+
+* [1.19.10.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.10.22.zip)
+
+* [1.19.10.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.10.23.zip)
+
+* [1.19.10.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.10.24.zip)
+
+* [1.19.20.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.20.20.zip)
+
+* [1.19.20.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.20.22.zip)
+
+* [1.19.20.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.20.23.zip)
+
+* [1.19.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.20.24.zip)
+
+* [1.19.30.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.30.20.zip)
+
+* [1.19.30.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.30.21.zip)
+
+* [1.19.30.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.30.22.zip)
+
+* [1.19.30.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.30.23.zip)
+
+* [1.19.30.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.30.24.zip)
+
+* [1.19.30.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.30.25.zip)
+
+* [1.19.40.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.40.20.zip)
+
+* [1.19.40.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.40.21.zip)
+
+* [1.19.40.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.40.22.zip)
+
+* [1.19.40.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.40.23.zip)
+
+* [1.19.40.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.40.24.zip)
+
+* [1.19.50.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.50.20.zip)
+
+* [1.19.50.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.50.21.zip)
+
+* [1.19.50.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.50.22.zip)
+
+* [1.19.50.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.50.23.zip)
+
+* [1.19.50.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.50.24.zip)
+
+* [1.19.50.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.50.25.zip)
+
+* [1.19.60.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.60.20.zip)
+
+* [1.19.60.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.60.22.zip)
+
+* [1.19.60.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.60.23.zip)
+
+* [1.19.60.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.60.24.zip)
+
+* [1.19.60.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.60.25.zip)
+
+* [1.19.60.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.60.26.zip)
+
+* [1.19.60.27](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.60.27.zip)
+
+* [1.19.70.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.70.20.zip)
+
+* [1.19.70.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.70.21.zip)
+
+* [1.19.70.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.70.22.zip)
+
+* [1.19.70.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.70.23.zip)
+
+* [1.19.70.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.70.24.zip)
+
+* [1.19.70.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.70.26.zip)
+
+* [1.19.80.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.80.20.zip)
+
+* [1.19.80.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.80.21.zip)
+
+* [1.19.80.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.80.22.zip)
+
+* [1.19.80.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.80.23.zip)
+
+* [1.19.80.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.19.80.24.zip)
+
+* [1.20.0.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.0.20.zip)
+
+* [1.20.0.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.0.21.zip)
+
+* [1.20.0.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.0.22.zip)
+
+* [1.20.0.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.0.23.zip)
+
+* [1.20.0.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.0.24.zip)
+
+* [1.20.0.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.0.25.zip)
+
+* [1.20.10.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.10.20.zip)
+
+* [1.20.10.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.10.21.zip)
+
+* [1.20.10.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.10.23.zip)
+
+* [1.20.10.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.10.24.zip)
+
+* [1.20.20.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.20.20.zip)
+
+* [1.20.20.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.20.21.zip)
+
+* [1.20.20.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.20.22.zip)
+
+* [1.20.20.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.20.23.zip)
+
+* [1.20.30.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.30.20.zip)
+
+* [1.20.30.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.30.21.zip)
+
+* [1.20.30.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.30.22.zip)
+
+* [1.20.30.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.30.24.zip)
+
+* [1.20.30.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.30.25.zip)
+
+* [1.20.40.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.40.20.zip)
+
+* [1.20.40.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.40.21.zip)
+
+* [1.20.40.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.40.22.zip)
+
+* [1.20.40.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.40.23.zip)
+
+* [1.20.40.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.40.24.zip)
+
+* [1.20.50.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.50.20.zip)
+
+* [1.20.50.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.50.21.zip)
+
+* [1.20.50.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.50.22.zip)
+
+* [1.20.50.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.50.23.zip)
+
+* [1.20.50.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.50.24.zip)
+
+* [1.20.60.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.60.20.zip)
+
+* [1.20.60.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.60.21.zip)
+
+* [1.20.60.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.60.22.zip)
+
+* [1.20.60.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.60.23.zip)
+
+* [1.20.60.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.60.24.zip)
+
+* [1.20.60.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.60.25.zip)
+
+* [1.20.60.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.60.26.zip)
+
+* [1.20.70.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.70.20.zip)
+
+* [1.20.70.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.70.21.zip)
+
+* [1.20.70.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.70.22.zip)
+
+* [1.20.70.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.70.24.zip)
+
+* [1.20.70.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.70.25.zip)
+
+* [1.20.80.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.80.20.zip)
+
+* [1.20.80.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.80.21.zip)
+
+* [1.20.80.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.80.22.zip)
+
+* [1.20.80.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.80.23.zip)
+
+* [1.20.80.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.20.80.24.zip)
+
+* [1.21.0.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.0.20.zip)
+
+* [1.21.0.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.0.21.zip)
+
+* [1.21.0.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.0.22.zip)
+
+* [1.21.0.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.0.23.zip)
+
+* [1.21.0.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.0.24.zip)
+
+* [1.21.0.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.0.25.zip)
+
+* [1.21.0.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.0.26.zip)
+
+* [1.21.10.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.10.20.zip)
+
+* [1.21.10.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.10.21.zip)
+
+* [1.21.10.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.10.22.zip)
+
+* [1.21.10.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.10.23.zip)
+
+* [1.21.10.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.10.24.zip)
+
+* [1.21.100.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.100.20.zip)
+
+* [1.21.100.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.100.21.zip)
+
+* [1.21.100.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.100.22.zip)
+
+* [1.21.100.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.100.23.zip)
+
+* [1.21.100.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.100.24.zip)
+
+* [1.21.110.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.110.20.zip)
+
+* [1.21.110.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.110.22.zip)
+
+* [1.21.110.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.110.23.zip)
+
+* [1.21.110.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.110.24.zip)
+
+* [1.21.110.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.110.25.zip)
+
+* [1.21.110.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.110.26.zip)
+
+* [1.21.120.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.120.20.zip)
+
+* [1.21.120.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.120.21.zip)
+
+* [1.21.120.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.120.22.zip)
+
+* [1.21.120.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.120.23.zip)
+
+* [1.21.120.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.120.24.zip)
+
+* [1.21.120.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.120.25.zip)
+
+* [1.21.130.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.130.20.zip)
+
+* [1.21.20.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.20.21.zip)
+
+* [1.21.20.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.20.22.zip)
+
+* [1.21.20.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.20.23.zip)
+
+* [1.21.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.20.24.zip)
+
+* [1.21.30.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.30.21.zip)
+
+* [1.21.30.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.30.22.zip)
+
+* [1.21.30.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.30.23.zip)
+
+* [1.21.30.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.30.24.zip)
+
+* [1.21.30.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.30.25.zip)
+
+* [1.21.40.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.40.20.zip)
+
+* [1.21.40.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.40.21.zip)
+
+* [1.21.40.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.40.22.zip)
+
+* [1.21.40.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.40.23.zip)
+
+* [1.21.40.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.40.25.zip)
+
+* [1.21.50.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.50.20.zip)
+
+* [1.21.50.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.50.24.zip)
+
+* [1.21.50.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.50.25.zip)
+
+* [1.21.50.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.50.26.zip)
+
+* [1.21.50.28](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.50.28.zip)
+
+* [1.21.50.29](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.50.29.zip)
+
+* [1.21.50.30](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.50.30.zip)
+
+* [1.21.60.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.60.21.zip)
+
+* [1.21.60.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.60.23.zip)
+
+* [1.21.60.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.60.24.zip)
+
+* [1.21.60.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.60.25.zip)
+
+* [1.21.60.27](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.60.27.zip)
+
+* [1.21.60.28](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.60.28.zip)
+
+* [1.21.70.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.70.20.zip)
+
+* [1.21.70.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.70.22.zip)
+
+* [1.21.70.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.70.23.zip)
+
+* [1.21.70.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.70.24.zip)
+
+* [1.21.70.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.70.25.zip)
+
+* [1.21.70.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.70.26.zip)
+
+* [1.21.80.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.80.20.zip)
+
+* [1.21.80.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.80.21.zip)
+
+* [1.21.80.22](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.80.22.zip)
+
+* [1.21.80.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.80.25.zip)
+
+* [1.21.80.27](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.80.27.zip)
+
+* [1.21.80.28](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.80.28.zip)
+
+* [1.21.90.20](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.20.zip)
+
+* [1.21.90.21](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.21.zip)
+
+* [1.21.90.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.23.zip)
+
+* [1.21.90.25](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.25.zip)
+
+* [1.21.90.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.26.zip)
+
+* [1.21.90.27](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.27.zip)
+
+* [1.21.90.28](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.28.zip)
