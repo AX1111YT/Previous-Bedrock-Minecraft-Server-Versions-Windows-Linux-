@@ -2,14 +2,19 @@
 Can't find older versions of bedrock minecraft servers both Windows & Linux? this repository contains ton of previous versions.
 
 ## Navigation Section:
-• [Windows](#Windows-Servers)
+- [Windows](#Windows-Servers)
+     - [Windows Releses](#Windows-Releses)
+     - [WIndows Previews](#Windows-Previews)
 
-• [Linux](#Linux-Servers) 
+- [Linux](#Linux-Servers)
+     - [Linux Releases](#Linux-Releses)
+     - [Linux Previews](#Linux-Previews)
 
-• [Latest Versions](https://www.minecraft.net/en-us/download/server/bedrock)
+- [Latest Versions](https://www.minecraft.net/en-us/download/server/bedrock)
 
 <a name="Windows-Servers"></a> 
 ### Windows Servers:
+**Releases:** <a name="Windows-Releses"></a> 
 * [1.6.1.0](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.6.1.0.zip)
 
 * [1.6.2.0](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.6.2.0.zip)
