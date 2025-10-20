@@ -6,6 +6,8 @@ Can't find older versions of bedrock minecraft servers both Windows &Linux? this
 
 • [Linux](#Linux-Servers) 
 
+• [Latest Versions](https://www.minecraft.net/en-us/download/server/bedrock)
+
 <a name="Windows-Servers"></a> 
 ### Windows Servers:
 
