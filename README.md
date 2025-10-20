@@ -709,7 +709,7 @@
 
 <a name="Linux-Servers"></a> 
 ### Linux Servers:
-**Releases** <a name="Linux-Releses"></a>
+**Releases:** <a name="Linux-Releses"></a>
 * [1.6.1.0](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.6.1.0.zip)
 
 * [1.6.2.0](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.6.2.0.zip)
@@ -1398,3 +1398,5 @@
 * [1.21.90.27](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.27.zip)
 
 * [1.21.90.28](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.28.zip)
+
+You just reached the end :D
