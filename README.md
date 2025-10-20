@@ -333,12 +333,7 @@ Can't find older versions of bedrock minecraft servers both Windows & Linux? thi
 
 * [1.21.113.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.113.1.zip)
 
-* [1.21.114.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.114.1.zip)
-
-* [1.21.120](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.zip)
-
-* [1.21.130](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.zip)
-  
+* [1.21.114.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.114.1.zip)  
 
 **Windows Previews:** <a name="Windows-Previews"></a> 
 * [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.20.24.zip)
@@ -1032,10 +1027,6 @@ Can't find older versions of bedrock minecraft servers both Windows & Linux? thi
 * [1.21.113.1](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.113.1.zip)
 
 * [1.21.114.1](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.114.1.zip)
-
-* [1.21.120](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.120.zip)
-
-* [1.21.130](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.zip)
 
 **Linux Previews:** <a name="Linux-Previews"></a> 
 * [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.24.zip)
