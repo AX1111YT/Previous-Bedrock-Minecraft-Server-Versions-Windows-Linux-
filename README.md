@@ -339,7 +339,7 @@
 
 * [1.21.114.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.114.1.zip)  
 
-**Windows Previews:** <a name="Windows-Previews"></a> > First 17 servers don't work due to unavailability of files
+**Windows Previews:** <a name="Windows-Previews"></a> > First 17 servers won't work due to unavailability of files
 * [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.20.24.zip)
 
 * [1.18.20.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.20.26.zip)
