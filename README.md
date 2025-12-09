@@ -1035,7 +1035,7 @@
 
 * [1.21.114.1](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.114.1.zip)
 
-**Linux Previews:** <a name="Linux-Previews"></a> > First 17 servers don't work due to unavailability of files
+**Linux Previews:** <a name="Linux-Previews"></a> > First 17 servers won't work due to unavailability of files
 * [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.24.zip)
 
 * [1.18.20.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.26.zip)
