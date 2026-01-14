@@ -337,7 +337,51 @@
 
 * [1.21.113.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.113.1.zip)
 
-* [1.21.114.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.114.1.zip)  
+* [1.21.114.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.114.1.zip)
+
+* [1.21.120.4](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.4.zip)
+
+* [1.21.120.20](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.20.zip)
+
+* [1.21.120.21](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.21.zip)
+
+* [1.21.120.22](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.22.zip)
+
+* [1.21.120.23](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.23.zip)
+
+* [1.21.120.24](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.24.zip)
+
+* [1.21.120.25](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.120.25.zip)
+
+* [1.21.121.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.121.1.zip)
+
+* [1.21.122.2](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.122.2.zip)
+
+* [1.21.123.2](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.123.2.zip)
+
+* [1.21.124.2](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.124.2.zip)
+
+* [1.21.130.4](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.4.zip)
+
+* [1.21.130.20](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.20.zip)
+
+* [1.21.130.22](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.22.zip)
+
+* [1.21.130.24](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.24.zip)
+
+* [1.21.130.25](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.25.zip)
+
+* [1.21.130.26](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.26.zip)
+
+* [1.21.130.27](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.27.zip)
+
+* [1.21.130.28](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.28.zip)
+
+* [1.21.130.3](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.130.3.zip)
+
+* [1.21.131.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.131.1.zip)
+
+* [1.21.132.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.21.132.1.zip)
 
 **Windows Previews:** <a name="Windows-Previews"></a> > First 17 servers won't work due to unavailability of files
 * [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.20.24.zip)
