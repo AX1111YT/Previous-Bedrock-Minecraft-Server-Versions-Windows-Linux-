@@ -710,7 +710,7 @@
 
 * [1.21.100.20](https://www.minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.100.20.zip)
 
-* [1.21.100.21.21.100.21](https://www.minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.100.21.zip)
+* [1.21.100.21](https://www.minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.100.21.zip)
 
 <a name="Linux-Servers"></a> 
 ### Linux Servers:
