@@ -7,7 +7,7 @@
 
 ## Navigation Section:
 - [Windows](#Windows-Servers)
-     - [Windows Releses](#Windows-Releses)
+     - [Windows Releases](#Windows-Releses)
      - [WIndows Previews](#Windows-Previews)
 
 - [Linux](#Linux-Servers)
@@ -18,7 +18,7 @@
 
 <a name="Windows-Servers"></a> 
 ### Windows Servers:
-**Releases:** <a name="Windows-Releses"></a> 
+**Releases:** <a name="Windows-Releases"></a> 
 * [1.6.1.0](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.6.1.0.zip)
 
 * [1.6.2.0](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.6.2.0.zip)
@@ -826,7 +826,7 @@
 
 <a name="Linux-Servers"></a> 
 ### Linux Servers:
-**Releases:** <a name="Linux-Releses"></a>
+**Releases:** <a name="Linux-Releases"></a>
 * [1.6.1.0](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.6.1.0.zip)
 
 * [1.6.2.0](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.6.2.0.zip)
