@@ -1183,7 +1183,7 @@
 
 * [1.26.12.2](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.12.2.zip)
 
-**Linux Previews:** <a name="Linux-Previews"></a> > First 17 servers won't work due to unavailability of files
+#### **Linux Previews:** <a name="Linux-Previews"></a> > First 17 servers won't work due to unavailability of files
 * [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.24.zip)
 
 * [1.18.20.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.26.zip)
@@ -1550,4 +1550,85 @@
 
 * [1.21.90.28](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.21.90.28.zip)
 
+* [1.21.100.20](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.100.20.zip)
+
+* [1.21.100.21](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.100.21.zip)
+
+* [1.21.100.22](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.100.22.zip)
+
+* [1.21.100.23](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.100.23.zip)
+
+* [1.21.100.24](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.100.24.zip)
+
+* [1.21.100.25](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.100.25.zip)
+
+* [1.21.110.20](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.110.20.zip)
+
+* [1.21.110.22](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.110.22.zip)
+
+* [1.21.110.23](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.110.23.zip)
+
+* [1.21.110.24](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.110.24.zip)
+
+* [1.21.110.25](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.110.25.zip)
+
+* [1.21.110.26](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.110.26.zip)
+
+* [1.21.120.20](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.120.20.zip)
+
+* [1.21.120.21](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.120.21.zip)
+
+* [1.21.120.22](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.120.22.zip)
+
+* [1.21.120.23](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.120.23.zip)
+
+* [1.21.120.24](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.120.24.zip)
+
+* [1.21.120.25](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.120.25.zip)
+
+* [1.21.130.20](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.20.zip)
+
+* [1.21.130.22](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.22.zip)
+
+* [1.21.130.24](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.24.zip)
+
+* [1.21.130.25](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.25.zip)
+
+* [1.21.130.26](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.26.zip)
+
+* [1.21.130.27](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.27.zip)
+
+* [1.21.130.28](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.130.28.zip)
+
+* [1.26.0.24](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.0.24.zip)
+
+* [1.26.0.25](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.0.25.zip)
+
+* [1.26.0.26](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.0.26.zip)
+
+* [1.26.0.27](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.0.27.zip)
+
+* [1.26.0.28](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.0.28.zip)
+
+* [1.26.0.29](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.0.29.zip)
+
+* [1.26.10.20](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.10.20.zip)
+
+* [1.26.10.21](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.10.21.zip)
+
+* [1.26.10.23](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.10.23.zip)
+
+* [1.26.10.24](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.10.24.zip)
+
+* [1.26.10.25](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.10.25.zip)
+
+* [1.26.10.26](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.10.26.zip)
+
+* [1.26.10.27](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.10.27.zip)
+
+* [1.26.20.20](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.20.20.zip)
+
+* [1.26.20.22](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.20.22.zip)
+
+* [1.26.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.20.24.zip)
 You just reached the end :D
