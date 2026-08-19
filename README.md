@@ -1,10 +1,8 @@
 # Previous/older server versions of Bedrock Minecraft (Windows & Linux)
 
-**Struggling to find an older version of the Minecraft Bedrock server for your Windows or Linux machine? You're not alone. The official website only keeps the latest update, but thankfully, the I have a solution. This repository is an invaluable resource, meticulously archiving an extensive library of past server releases for you to download.**
+**Struggling to find an older version of the Minecraft Bedrock server for your Windows or Linux machine? You're not alone. The official website only keeps the latest update, but thankfully, the I have a solution. I made what Mojang did not do; keeping a simple list with download links to previous Bedrock server versions.**
 
-**_A Quick Note from the Owner @AX1111YT!! Welcome! Before you dive in, I wanted to share that this entire repository is a personal project, built and managed from the ground up. It has taken a significant amount of time and dedication to collect, organize, and filter all these versions for the community._**
-
-**_My goal is to keep this resource reliable and consistently well-maintained. If you find this archive helpful, every contribution whether it's a GitHub star, reporting an issue is valuable and deeply appreciated. Thank you for your support!_**
+**_My goal is to keep this resource reliable and consistently well-maintained. If you find this archive helpful, any contribution whether it's a GitHub star or reporting an issue is much appreciated. Thank you for your support!_**
 
 ## Navigation Section:
 
@@ -23,6 +21,8 @@
 ### Windows Servers:
 
 **Releases:** <a name="Windows-Releases"></a>
+
+<!-- WIN-RELEASES:START -->
 
 - [1.6.1.0](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.6.1.0.zip)
 
@@ -378,7 +378,11 @@
 
 - [1.26.12.2](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.12.2.zip)
 
+<!-- WIN-RELEASES:END -->
+
 #### **Windows Previews:** <a name="Windows-Previews"></a> > First 17 servers won't work due to unavailability of files
+
+<!-- WIN-PREVIEWS:START -->
 
 - [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.18.20.24.zip)
 
@@ -830,11 +834,15 @@
 
 - [1.26.20.24](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.20.24.zip)
 
+<!-- WIN-PREVIEWS:END -->
+
 <a name="Linux-Servers"></a>
 
 ### Linux Servers:
 
 **Releases:** <a name="Linux-Releases"></a>
+
+<!-- LINUX-RELEASES:START -->
 
 - [1.6.1.0](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.6.1.0.zip)
 
@@ -1192,7 +1200,11 @@
 
 - [1.26.12.2](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.12.2.zip)
 
+<!-- LINUX-RELEASES:END -->
+
 #### **Linux Previews:** <a name="Linux-Previews"></a> > First 17 servers won't work due to unavailability of files
+
+<!-- LINUX-PREVIEWS:START -->
 
 - [1.18.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.18.20.24.zip)
 
@@ -1641,5 +1653,6 @@
 - [1.26.20.22](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.20.22.zip)
 
 - [1.26.20.24](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.20.24.zip)
+  <!-- LINUX-PREVIEWS:END -->
 
-You just reached the end :D
+  You just reached the end :D
