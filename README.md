@@ -4,6 +4,8 @@
 
 **_My goal is to keep this resource reliable and consistently well-maintained. If you find this archive helpful, any contribution whether it's a GitHub star or reporting an issue is much appreciated. Thank you for your support!_**
 
+**The version list is updated automatically updated everyday, you will always find all the versions here.**
+
 ## Navigation Section:
 
 - [Windows](#Windows-Servers)
