@@ -7,7 +7,6 @@ import urllib.request
 
 SOURCE_REPO = "Bedrock-OSS/BDS-Versions"
 README_PATH = "README.md"
-GENERATED_COPY_PATH = "other-data/generated_readme_lists.md"
 
 SECTIONS = [
     ("windows", "win", "WIN-RELEASES"),
@@ -70,22 +69,6 @@ def main():
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(readme)
-
-    win_rel, win_rel_tag = fetched["WIN-RELEASES"]
-    win_prev, win_prev_tag = fetched["WIN-PREVIEWS"]
-    lin_rel, lin_rel_tag = fetched["LINUX-RELEASES"]
-    lin_prev, lin_prev_tag = fetched["LINUX-PREVIEWS"]
-
-    os.makedirs("other-data", exist_ok=True)
-    with open(GENERATED_COPY_PATH, "w", encoding="utf-8") as f:
-        f.write("### Windows Servers:\n**Releases:**\n\n")
-        f.write(to_markdown(win_rel, win_rel_tag))
-        f.write("\n**Previews:**\n\n")
-        f.write(to_markdown(win_prev, win_prev_tag))
-        f.write("\n---\n\n### Linux Servers:\n**Releases:**\n\n")
-        f.write(to_markdown(lin_rel, lin_rel_tag))
-        f.write("\n**Previews:**\n\n")
-        f.write(to_markdown(lin_prev, lin_prev_tag))
 
     total = sum(len(v) for v, _ in fetched.values())
     print(f"done - {total} versions total")
