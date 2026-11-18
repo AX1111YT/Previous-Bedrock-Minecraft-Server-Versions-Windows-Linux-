@@ -842,6 +842,8 @@
 
 * [1.26.70.24](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.70.24.zip)
 
+* [1.26.70.26](https://minecraft.net/bedrockdedicatedserver/bin-win-preview/bedrock-server-1.26.70.26.zip)
+
 <!-- WIN-PREVIEWS:END -->
 
 <a name="Linux-Servers"></a>
@@ -1665,6 +1667,8 @@
 * [1.26.70.23](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.26.70.23.zip)
 
 * [1.26.70.24](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.26.70.24.zip)
+
+* [1.26.70.26](https://minecraft.net/bedrockdedicatedserver/bin-linux-preview/bedrock-server-1.26.70.26.zip)
 
 <!-- LINUX-PREVIEWS:END -->
 
