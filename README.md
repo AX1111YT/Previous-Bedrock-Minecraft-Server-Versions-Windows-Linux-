@@ -419,6 +419,8 @@
 
 * [1.26.65.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.65.1.zip)
 
+* [1.26.66.1](https://minecraft.net/bedrockdedicatedserver/bin-win/bedrock-server-1.26.66.1.zip)
+
 <!-- WIN-RELEASES:END -->
 
 #### **Windows Previews:** <a name="Windows-Previews"></a> > First 17 servers won't work due to unavailability of files
@@ -1246,6 +1248,8 @@
 * [1.26.63.1](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.63.1.zip)
 
 * [1.26.65.1](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.65.1.zip)
+
+* [1.26.66.1](https://minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.26.66.1.zip)
 
 <!-- LINUX-RELEASES:END -->
 
